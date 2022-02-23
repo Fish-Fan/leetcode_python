@@ -1,4 +1,4 @@
-from collections import defaultdict
+# Question link: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9bf87dc7-c47f-4374-9bba-5e47561ee41f/17891645547545_.pic.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220223T143933Z&X-Amz-Expires=86400&X-Amz-Signature=b2b58354d6d781a4d4164999252bcb55873153bd55d5e3647333f9d9163f208e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2217891645547545_.pic.jpg%22&x-id=GetObject
 def solution(v_arr, e_arr, path):
     # build vertices mapping
     d = {}
